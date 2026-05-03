@@ -30,6 +30,9 @@ demand_date       | DATE    | Date of demand
 ###  7. Key Skills Demonstrated
 
 Table design and schema definition
+
 ETL / data pipeline building
+
 PySpark for scalable table creation
+
 Analytics schema management
